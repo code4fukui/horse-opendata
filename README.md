@@ -1,5 +1,7 @@
 # horse-opendata
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A project that analyzes a dataset of four-character idioms and their associated animals.
 
 ## Features
