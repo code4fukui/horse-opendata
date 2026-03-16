@@ -16,4 +16,4 @@ The project uses a CSV file named `idiom4.csv` that contains the following field
 - `動物` (Animal)
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
